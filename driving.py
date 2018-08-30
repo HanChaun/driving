@@ -11,3 +11,5 @@ elif country == 'USA':
 		print('you can test for Driving Licence ')
 	else:
 		print('you can not test for Driving Licence ')
+else:
+	print('please input Taiwan or USA')
